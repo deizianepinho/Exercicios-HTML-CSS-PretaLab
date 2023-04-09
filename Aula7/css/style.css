@@ -1,0 +1,41 @@
+body{
+    background-color: burlywood;
+}
+
+.meuTexto{
+    color: rgb(255,0,255);
+}
+
+#h1Unico{
+    color: #4B0082;
+}
+
+#corpo{
+    background-color: palegreen;
+    color: brown;
+    margin: 30px auto;
+    /*margin-left: 60pix;
+    margin-right: 15px;
+    margin-top: 90px; */
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border: blue 12px solid;
+    border-width: medium;
+    border-style: dotted;
+}
+
+.sessaoConteudo{
+    text-align: center;
+    width: 50%;
+    height: 70px;
+    background-color: coral;
+}
+
+p{
+    font-family: 'Courier New';
+    font-size: small;
+    line-height: 35px;
+}
